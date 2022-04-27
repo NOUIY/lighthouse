@@ -207,7 +207,7 @@
     "third-party-web": "^0.17.1",
     "ws": "^7.0.0",
     "yargs": "^17.3.1",
-    "yargs-parser": "^21.0.0"
+    "yargs-parser": "^21.0.1"
   },
   "resolutions": {
     "puppeteer/**/devtools-protocol": "0.0.995287",
