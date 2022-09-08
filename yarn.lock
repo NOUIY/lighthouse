@@ -6072,17 +6072,16 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppeteer-core@^16.1.0:
-  version "16.1.0"
-  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-16.1.0.tgz#0485312363e6e1d65889d4b31de677bd36f872e4"
-  integrity sha512-Eu9FCqdWU2PU/RY53sa+JTsbFiQg5fJyaHX5DP0WZ4+lVLVdMfR9dwPimRkSl9NEcArm7lZMpiDlVCYelE90ZA==
+puppeteer-core@^16.1.1:
+  version "16.2.0"
+  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-16.2.0.tgz#ea790cd53f8a0ffeaf03679ff6fd82b0e210b3e3"
+  integrity sha512-f1q7egbAR5IhAVb0LNhiLKD2O/WtAHS/Oeided2+8RFBZx9OjZ26sIDD7QUTrOuUXHY257ShVJNN42fANEiSXQ==
   dependencies:
     cross-fetch "3.1.5"
     debug "4.3.4"
     devtools-protocol "0.0.1019158"
     extract-zip "2.0.1"
     https-proxy-agent "5.0.1"
-    pkg-dir "4.2.0"
     progress "2.0.3"
     proxy-from-env "1.1.0"
     rimraf "3.0.2"
@@ -6128,7 +6127,6 @@ query-string@^4.1.0:
 
 quibble@^0.6.7, quibble@connorjclark/quibble#mod-cache:
   version "0.6.14"
-  uid "68d53b087d4c9117cc86c7e5f19e7953a219582b"
   resolved "https://codeload.github.com/connorjclark/quibble/tar.gz/68d53b087d4c9117cc86c7e5f19e7953a219582b"
   dependencies:
     lodash "^4.17.21"
