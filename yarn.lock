@@ -6914,10 +6914,10 @@ theredoc@^1.0.0:
   resolved "https://registry.yarnpkg.com/theredoc/-/theredoc-1.0.0.tgz#bcace376af6feb1873efbdd0f91ed026570ff062"
   integrity sha512-KU3SA3TjRRM932jpNfD3u4Ec3bSvedyo5ITPI7zgWYnKep7BwQQaxlhI9qbO+lKJoRnoAbEVfMcAHRuKVYikDA==
 
-third-party-web@^0.17.1:
-  version "0.17.1"
-  resolved "https://registry.yarnpkg.com/third-party-web/-/third-party-web-0.17.1.tgz#22e03f1ff519a6380bae4594b704b9bb28e15158"
-  integrity sha512-X9Mha8cVeBwakunlZXkXL6xRzw8VCcDGWqT59EzeTYAJIi8ien3CuufnEGEx4ZUFahumNQdoOwf4H2T9Ca6lBg==
+third-party-web@^0.20.0:
+  version "0.20.1"
+  resolved "https://registry.yarnpkg.com/third-party-web/-/third-party-web-0.20.1.tgz#54fb519ca4abbef9a76856fbae381c3100f6c91f"
+  integrity sha512-MgHB6Z+lzSFEWpJzI/xsWsGEQH020fkZ2G0qNeBPettYt2MHpfKo71WxoL5DyDeyRodkGblVxWcRn3K2vVlilg==
 
 through2@^2.0.0:
   version "2.0.5"
